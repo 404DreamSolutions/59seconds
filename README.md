@@ -156,27 +156,27 @@
 
 |                                         로그인 및 토글 전환                                         |                                          이벤트 상세 페이지                                           |
 | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/ERD_SQL.png" width="400"> | <img src="https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/ERD_NoSQL.png" width="400"> |
+| <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%B0%8F%ED%86%A0%EA%B8%80%EC%A0%84%ED%99%98.gif" width="400"> | <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.gif" width="400"> |
 
 ### 일반 사용자 모드
 
 |                                   마이페이지                                    |                                     검색창                                      |
 | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| <img src="https://via.placeholder.com/400x300?text=Architecture+1" width="400"> | <img src="https://via.placeholder.com/400x300?text=Architecture+2" width="400"> |
+| <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.gif" width="400"> | <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B2%80%EC%83%89%EC%B0%BD%EB%B0%8F%EB%94%94%ED%85%8C%EC%9D%BC.gif" width="400"> |
 
 |                               이벤트 참여 (당첨)                                |                              이벤트 참여 (미당첨)                               |
 | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| <img src="https://via.placeholder.com/400x300?text=Architecture+1" width="400"> | <img src="https://via.placeholder.com/400x300?text=Architecture+2" width="400"> |
+| <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%B0%B8%EC%97%AC(%EB%8B%B9%EC%B2%A8).gif" width="400"> | <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%B0%B8%EC%97%AC(%EB%AF%B8%EB%8B%B9%EC%B2%A8).gif" width="400"> |
 
-|                                당첨자 정보 입력                                 |     |
-| :-----------------------------------------------------------------------------: | :-: |
-| <img src="https://via.placeholder.com/400x300?text=Architecture+1" width="300"> |     |
+|                                당첨자 정보 입력                                 |
+| :-----------------------------------------------------------------------------: |
+| <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EB%8B%B9%EC%B2%A8%EC%9E%90%EC%9E%85%EB%A0%A5.gif" width="200"> |
 
 ### 크리에이터 모드
 
 |                                   이벤트 생성                                   |                                   당첨자 확인                                   |
 | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| <img src="https://via.placeholder.com/400x300?text=Architecture+1" width="400"> | <img src="https://via.placeholder.com/400x300?text=Architecture+2" width="400"> |
+| <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%83%9D%EC%84%B1.gif" width="400"> | <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0_%EB%8B%B9%EC%B2%A8%EC%9E%90%ED%99%95%EC%9D%B8.gif" width="400"> |
 
 ## **📊 성능 테스트 결과**
 
