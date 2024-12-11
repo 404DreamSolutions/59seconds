@@ -170,7 +170,7 @@
 
 |                                당첨자 정보 입력                                 |
 | :-----------------------------------------------------------------------------: |
-| <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EB%8B%B9%EC%B2%A8%EC%9E%90%EC%9E%85%EB%A0%A5.gif" width="200"> |
+| <img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EB%8B%B9%EC%B2%A8%EC%9E%90%EC%9E%85%EB%A0%A5.gif" width="400"> |
 
 ### 크리에이터 모드
 
