@@ -3,7 +3,7 @@
 **"공정성과 투명성을 갖춘 선착순 이벤트 서비스"**
 
 <div align="center">
-<img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%B0%B8%EC%97%AC(%EB%AF%B8%EB%8B%B9%EC%B2%A8).gif" width="1000"> 
+<img src="https://github.com/404DreamSolutions/59seconds/blob/page/docs/%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%B0%B8%EC%97%AC(%EB%AF%B8%EB%8B%B9%EC%B2%A8).gif" width="800"> 
 </div>
 
 59초는 선착순 이벤트 참여 과정에서 발생하는 불투명성을 해소하고, 사용자에게 자신의 순위와 참여 시간을 실시간으로 제공하는 플랫폼입니다.  
